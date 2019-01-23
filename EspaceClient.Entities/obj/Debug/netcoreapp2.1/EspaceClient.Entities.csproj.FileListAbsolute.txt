@@ -1,0 +1,8 @@
+E:\Formation\formqtion\EspaceClient.Entities\bin\Debug\netcoreapp2.1\EspaceClient.Entities.deps.json
+E:\Formation\formqtion\EspaceClient.Entities\bin\Debug\netcoreapp2.1\EspaceClient.Entities.dll
+E:\Formation\formqtion\EspaceClient.Entities\bin\Debug\netcoreapp2.1\EspaceClient.Entities.pdb
+E:\Formation\formqtion\EspaceClient.Entities\obj\Debug\netcoreapp2.1\EspaceClient.Entities.csproj.CoreCompileInputs.cache
+E:\Formation\formqtion\EspaceClient.Entities\obj\Debug\netcoreapp2.1\EspaceClient.Entities.AssemblyInfoInputs.cache
+E:\Formation\formqtion\EspaceClient.Entities\obj\Debug\netcoreapp2.1\EspaceClient.Entities.AssemblyInfo.cs
+E:\Formation\formqtion\EspaceClient.Entities\obj\Debug\netcoreapp2.1\EspaceClient.Entities.dll
+E:\Formation\formqtion\EspaceClient.Entities\obj\Debug\netcoreapp2.1\EspaceClient.Entities.pdb

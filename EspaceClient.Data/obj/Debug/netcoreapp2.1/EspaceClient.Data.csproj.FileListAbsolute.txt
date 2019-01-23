@@ -1,0 +1,16 @@
+E:\Formation\formqtion\EspaceClient.Data\bin\Debug\netcoreapp2.1\EspaceClient.Data.deps.json
+E:\Formation\formqtion\EspaceClient.Data\bin\Debug\netcoreapp2.1\EspaceClient.Data.dll
+E:\Formation\formqtion\EspaceClient.Data\bin\Debug\netcoreapp2.1\EspaceClient.Data.pdb
+E:\Formation\formqtion\EspaceClient.Data\bin\Debug\netcoreapp2.1\EspaceClient.Entities.dll
+E:\Formation\formqtion\EspaceClient.Data\bin\Debug\netcoreapp2.1\EspaceClient.Models.dll
+E:\Formation\formqtion\EspaceClient.Data\bin\Debug\netcoreapp2.1\EspaceClient.Entities.pdb
+E:\Formation\formqtion\EspaceClient.Data\bin\Debug\netcoreapp2.1\EspaceClient.Models.pdb
+E:\Formation\formqtion\EspaceClient.Data\obj\Debug\netcoreapp2.1\EspaceClient.Data.csprojAssemblyReference.cache
+E:\Formation\formqtion\EspaceClient.Data\obj\Debug\netcoreapp2.1\EspaceClient.Data.csproj.CoreCompileInputs.cache
+E:\Formation\formqtion\EspaceClient.Data\obj\Debug\netcoreapp2.1\EspaceClient.Data.AssemblyInfoInputs.cache
+E:\Formation\formqtion\EspaceClient.Data\obj\Debug\netcoreapp2.1\EspaceClient.Data.AssemblyInfo.cs
+E:\Formation\formqtion\EspaceClient.Data\obj\Debug\netcoreapp2.1\EspaceClient.Data.csproj.CopyComplete
+E:\Formation\formqtion\EspaceClient.Data\obj\Debug\netcoreapp2.1\EspaceClient.Data.dll
+E:\Formation\formqtion\EspaceClient.Data\obj\Debug\netcoreapp2.1\EspaceClient.Data.pdb
+E:\Formation\formqtion\EspaceClient.Data\bin\Debug\netcoreapp2.1\EspaceClient.Data.runtimeconfig.json
+E:\Formation\formqtion\EspaceClient.Data\bin\Debug\netcoreapp2.1\EspaceClient.Data.runtimeconfig.dev.json
